@@ -384,3 +384,9 @@ article{
     height: 100%;
     transition: var(--transition);
 }
+
+article h5 {
+  text-transform: uppercase;
+  color: var(--primary-500);
+  margin-bottom: 0.75rem;
+}
